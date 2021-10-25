@@ -1,7 +1,7 @@
 # Automation-scripts-for-Aegisub-Chinese
 Aegisub脚本汉化shit
 
-# 要进一步汉化自己PR
+# Unfinished, Mainly maintained by @Ronlandzuo
 
 具体使用方法参见[https://github.com/zhang-changwei/Automation-scripts-for-Aegisub](https://github.com/zhang-changwei/Automation-scripts-for-Aegisub)
 

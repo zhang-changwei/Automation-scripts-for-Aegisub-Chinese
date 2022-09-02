@@ -7,4 +7,4 @@ Aegisub脚本汉化工程
 + C Translation 平移
 + C Gradient 渐变
 + Blur and Glow 模糊与发光 （国外大佬作品）
-+ Create C Change SUB-调整分辨率.lua
++ C Change SUB-调整分辨率.lua

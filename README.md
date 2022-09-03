@@ -7,4 +7,7 @@ Aegisub脚本汉化工程
 + C Translation 平移
 + C Gradient 渐变
 + Blur and Glow 模糊与发光 （国外大佬作品）
-+ C Change SUB-调整分辨率.lua
++ C Change SUB 调整分辨率
+
+## 如何下载
+[![Download](https://img.shields.io/badge/点此下载-orange)](https://github.com/zhang-changwei/Automation-scripts-for-Aegisub-Chinese/archive/refs/heads/main.zip) 会用Github的请略。
